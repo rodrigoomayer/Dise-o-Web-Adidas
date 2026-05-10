@@ -1,0 +1,123 @@
+h1{color: #1f6f5f;
+background-color: #edecee;
+font-family: "Bebas Neue", sans-serif;
+font-size:100px;
+font-weight:500;
+text-decoration: underline;
+text-transform: uppercase;
+text-align:center;
+border-radius:50%;
+}
+
+strong{background-color:rgb(226, 22, 22) ;
+text-transform: uppercase;
+border-radius: 10px;
+font-size: 25px;
+}
+
+#imagen{
+text-align: center;
+}
+.menu{
+    font-size: 25px;
+    font-family: bungee,'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    display: flex;
+    flex-wrap: wrap;
+    display: inline;
+    margin: 1%;
+}
+
+h3{color:#6fcf97;
+font-size: 45px;
+text-decoration: underline;
+text-transform: uppercase;
+text-align: center;
+}
+
+.parrafo{
+font-size: 23px;
+text-align: center;
+font-family: "Sekuya", system-ui;
+color: #2c3947;
+margin: 0px 10%;
+}
+
+.opcion{
+    color:#2fa084;
+    font-size: 24px;
+    text-align: center;
+    
+}
+
+
+.novedad{
+    color:black;
+    border-radius:770% ;
+    background-color: white;
+    font-size: 24px;
+}
+h4{
+    color:#2fa084;
+    background-color: #edecee;
+    font-size: 45px;
+    border-radius: 200% ;
+    text-align: center;
+    margin: 0px 12%;
+}
+
+
+.descuento{
+    color:#9e4155 ;
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+
+.pais{
+    color:rgb(34, 197, 197);
+    font-size: 34px;
+    font-family: bungee,'Helvetica Neue', sans-serif ;
+}
+.video{
+    text-align: center;
+}
+
+h5{
+    color:#6fcf97;
+    font-size: 25px;
+    font-family:bungee, sans-serif;
+}
+.card{
+    background-color: #edecee;
+    text-align: center;
+    width: 300px;
+    padding: 2%;
+    margin: 20px;
+    border:3px solid #9e4155;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.catalogo{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
+article p{
+    color:#9e4155
+}
+ @media (max-width: 992px){
+
+}
+
+@media (max-width: 768px){ 
+    
+}
+  @media (max-width: 576px){
+
+}
+
